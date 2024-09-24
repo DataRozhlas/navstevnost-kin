@@ -1,8 +1,7 @@
-To-do pro hladkou aktualizaci:
+Stahování mrtě tabulek z webu [Unie filmových distributorů](https://ufd.cz/), jejich čištění a spojení do tří tabulek s týdenními výsledky, měsíčními výsledky a základními informacemi o filmech. 
 
-- Nestahovat již stažené.
-- Předávat si seznamy souborů mezi 001 a 002 JSONem.
+Aktualizace ruční, kumulativní.
 
-Další to-do:
-
-- Sjednotit v dataframech názvy sloupců.
+Podstatné info z UDF:
+- víkend v tabulkách označuje období čtvrtek-neděle,
+- v datech jsou i letní kina atp., můžou chybět nejvýš promítání vlastních filmů atp.
