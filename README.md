@@ -1,4 +1,4 @@
-Stahování mrtě tabulek z webu [Unie filmových distributorů](https://ufd.cz/), jejich čištění a spojení do tří tabulek s týdenními výsledky, měsíčními výsledky a základními informacemi o filmech. 
+Stahování mrtě excelů z webu [Unie filmových distributorů](https://ufd.cz/), jejich čištění a spojení do tří CSV s týdenními výsledky, měsíčními výsledky a základními informacemi o filmech. 
 
 Aktualizace ruční, kumulativní.
 

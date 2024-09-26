@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 *.xl*
 downloads
+tm3k
+grafy
+__pycache__
