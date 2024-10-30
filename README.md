@@ -4,4 +4,4 @@ Aktualizace ruční, kumulativní.
 
 Podstatné info z UDF:
 - víkend v tabulkách označuje období čtvrtek-neděle,
-- v datech jsou i letní kina atp., můžou chybět nejvýš promítání vlastních filmů atp.
+- v datech jsou i letní kina atp., můžou chybět nejvýš promítání vlastních filmů a jiné soukromé akce.
